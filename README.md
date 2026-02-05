@@ -1,4 +1,3 @@
-
 # Support for FolderPic (简图管理)
 
 感谢您使用 FolderPic！如果您有任何问题、建议或需要技术支持，请通过以下方式联系我们。
